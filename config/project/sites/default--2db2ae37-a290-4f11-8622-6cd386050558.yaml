@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'craft empty'
+primary: true
+siteGroup: c5614ae0-21c5-4586-9e7c-57c48bbd3548 # craft empty
+sortOrder: 1

@@ -1,0 +1,22 @@
+dateModified: 1704968069
+email:
+  fromEmail: jelmer.de.vries@scoremedia.nl
+  fromName: 'craft empty'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    2db2ae37-a290-4f11-8622-6cd386050558: 'craft empty' # craft empty
+    af78c87a-1a2f-45e1-9bd0-8c1f7d86cb1a: Common # Common
+    c5614ae0-21c5-4586-9e7c-57c48bbd3548: 'craft empty' # craft empty
+system:
+  edition: solo
+  live: true
+  name: 'craft empty'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
